@@ -1,0 +1,8 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="string_hint_text1">Texto de pista 1</string>
+    <string name="string_hint_text2">Texto de pista 2</string>
+    <string name="boton_de_comparacion">Botón de Comparación</string>
+    <string name="string_compare_button">Comparar</string>
+</resources>
